@@ -12,7 +12,7 @@ Mi nombre es Jose Angel Guerrero Huayanay, y soy un estudiante de la carrera An�
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joseangel190&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joseangel190&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🌐 Socials:
+## 🌐 Social:
 
 [![portfolio](https://img.shields.io/badge/sitio_web-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://joseangel190.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseguerreroh/)[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/JosangelGuerr17)[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100019130880075)
