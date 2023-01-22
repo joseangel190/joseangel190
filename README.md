@@ -1,6 +1,6 @@
 # 💫 Hola bienvenido:
 
-Mi nombre es Jose Angel Guerrero Huayanay, y soy un estudiante de la carrera Análisis de Sistemas en la Institución Valle Grande. Me gustan mucho los temas sobre tecnología e informática, y soy un entusiasta en conocer y aprender nuevos conocimientos.
+Hola, mi nombre es Jose y soy egresado de la Carrera Análisis de Sistemas en Valle Grande. Y me gustan mucho los temas sobre tecnología y programación, además de ser un entusiasta en aprender nuevas temas y plantearme retos que favorezcan mi crecimiento profesional, brindando así mejores soluciones a los problemas con los que me encuentre.
 
 # 💻 Tecnologías:
 
