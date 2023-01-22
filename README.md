@@ -20,3 +20,6 @@ Hola, mi nombre es Jose y soy egresado de la Carrera Análisis de Sistemas en Va
 ---
 [![](https://visitcount.itsvg.in/api?id=joseangel190&icon=0&color=12)](https://visitcount.itsvg.in)
 
+<img src="https://raw.githubusercontent.com/joseangel190/joseangel190/blob/output/snake.svg" alt="Snake animation" />
+
+###
